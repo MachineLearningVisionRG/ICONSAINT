@@ -39,7 +39,7 @@ All images were taken using an iPhone 11 with a dual 12MP camera with ul-tra-wid
 If you use this dataset, please cite it as follows:
 
 ```bibtex
-@inproceedings{iconsaint2026,
+@journal{iconsaint2026,
   title     = {Computer Vision in Spiritual Seeing: Recognition of Christian Saints in Orthodox Iconography},
   author    = {I. I. Sidiropoulos, K. D. Apostolidis, E. Vrochidou, G. A. Papakostas},
   journal = {Information},
